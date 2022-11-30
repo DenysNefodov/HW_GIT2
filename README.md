@@ -96,4 +96,5 @@ git push -u origin CheckLists
 ```Bash
 git checkout main
 git pull https://github.com/DenysNefodov/HW_GIT2.git
+git push
 ```
