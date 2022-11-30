@@ -56,7 +56,7 @@ git add .
 git commit -m "add structure bugreports in file bug_reports.txt"
 git push -u origin BugReports
 ```
-**Вмержить ветку Bag Reports в Main**
+**Вмержить ветку BugReports в Main**
 ```Bash
 git merge BugReports
 ```
