@@ -1,0 +1,7 @@
+ID
+Summary
+Section
+Enviroment
+Expected Result
+Status
+Bug report link
